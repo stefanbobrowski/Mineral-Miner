@@ -7,5 +7,7 @@ A Starcraft II tribute game. Built with React.
 - See how many Workers you can hire, and Minerals you can mine, before your browser explodes!
 
 Special thanks to Blizzard for making Starcraft II, and Microsoft for the future Starcraft III.
-https://stefanbobrowski.com/mineral-miner
+
+https://github.com/stefanbobrowski/Mineral-Miner
+https://stefanbobrowski.com/projects/MineralMiner
 stefanbobrowski1@gmail.com

@@ -20,8 +20,13 @@ export const About = () => {
           the future Starcraft III.
         </p>
         <p>
-          <a href='https://stefanbobrowski.com/mineral-miner'>
-            https://stefanbobrowski.com/mineral-miner
+          <a href='https://github.com/stefanbobrowski/Mineral-Miner'>
+            https://github.com/stefanbobrowski/Mineral-Miner
+          </a>
+        </p>
+        <p>
+          <a href='https://stefanbobrowski.com/projects/MineralMiner'>
+            https://stefanbobrowski.com/projects/MineralMiner
           </a>
         </p>
         <p>stefanbobrowski1@gmail.com</p>
